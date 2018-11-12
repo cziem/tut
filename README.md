@@ -3,7 +3,6 @@
 Top Up Tracker helps you keep track of the recharges you make over time.
 
 ## MISSION
-
 It has been observed that most people regardless of thier income spend more than supposed on airtime and that is why we decide to come up with this app to help keep track of your daily top-ups so as to have a full history of your recharge.
 
 ## UI

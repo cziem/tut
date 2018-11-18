@@ -1,0 +1,27 @@
+{
+  "name": "top_up_tracker",
+  "version": "1.0.0",
+  "description": "Top Up Tracker helps you keep track of the recharges you make over time. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phavor/tut.git"
+  },
+  "keywords": [
+    "top",
+    "up",
+    "mtn",
+    "glo",
+    "airtel",
+    "naija"
+  ],
+  "author": "LFA18",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phavor/tut/issues"
+  },
+  "homepage": "https://github.com/phavor/tut#readme"
+}

@@ -1,41 +1,37 @@
 {
-  "name": "top_up_tracker",
-  "version": "1.0.0",
-  "description": "Top Up Tracker helps you keep track of the recharges you make over time. ",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phavor/tut.git"
-  },
-  	"dependencies": {
+	"name": "empty-project-template",
+	"main": "node_modules/expo/AppEntry.js",
+	"private": true,
+	"scripts": {
+		"start": "expo start",
+		"android": "expo start --android",
+		"ios": "expo start --ios",
+		"eject": "expo eject"
+	},
+	"dependencies": {
+		"expo": "^30.0.1",
 		"native-base": "^2.8.1",
 		"react": "16.3.1",
 		"react-addons-update": "^15.6.2",
+		"react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
 		"react-native-router-flux": "^4.0.5",
 		"react-redux": "^5.1.0",
 		"redux": "^4.0.1",
 		"redux-thunk": "^2.3.0"
 	},
 	"devDependencies": {
+		"babel-eslint": "^10.0.1",
 		"eslint": "^5.8.0",
 		"eslint-plugin-react": "^7.11.1",
 		"redux-logger": "^3.0.6"
 	},
-  "keywords": [
-    "top",
-    "up",
-    "mtn",
-    "glo",
-    "airtel",
-    "naija"
-  ],
-  "author": "LFA18",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/phavor/tut/issues"
-  },
-  "homepage": "https://github.com/phavor/tut#readme"
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/phavor/tut.git"
+	},
+	"author": "LFA18",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/phavor/tut/issues"
+	}
 }

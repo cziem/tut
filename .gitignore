@@ -7,9 +7,10 @@ yarn-error.log*
 # Dependency directories
 node_modules/**/*
 server/node_modules/**/*
-
+/client/node_modules/**/*
+/client/.expo/*
 
 # Yarn Integrity file
 .yarn-integrity
-/yarn.lock
+yarn.lock
 # dotenv environment v

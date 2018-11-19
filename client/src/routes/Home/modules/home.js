@@ -1,5 +1,4 @@
-import update from 'react-addons-update';
-
+// import update from 'react-addons-update';
 import constants from './actionConstants';
 
 //Contants
